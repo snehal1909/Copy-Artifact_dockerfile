@@ -1,5 +1,6 @@
 # Jenkins JOB to copy Artifcats on to Dockerhost
 
+# STEPS TO BE FOLLOW
 ->docker connection with jenkins ,copy artifacts on docker host
 
 -.->WAR file under the target folder
