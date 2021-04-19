@@ -1,4 +1,4 @@
-![j1](https://user-images.githubusercontent.com/72296999/115218835-970c6a80-a124-11eb-8097-7e4be9fe9db6.PNG)
+
 # Jenkins JOB to copy Artifcats on to Dockerhost
 
 ->docker connection with jenkins ,copy artifacts on docker host
@@ -28,9 +28,11 @@ WAR file copied under HOME directory......
 Application UPP
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-possible Errors by setting password
+
 
 ![Capture](https://user-images.githubusercontent.com/72296999/115188005-e0978e00-a101-11eb-9485-26f859adb660.PNG)
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
+possible Errors by setting password
+![j1](https://user-images.githubusercontent.com/72296999/115218835-970c6a80-a124-11eb-8097-7e4be9fe9db6.PNG)
 
