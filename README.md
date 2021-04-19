@@ -33,7 +33,6 @@ Application UPP
 ![Capture](https://user-images.githubusercontent.com/72296999/115188005-e0978e00-a101-11eb-9485-26f859adb660.PNG)
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-possible Errors by setting password
-set the Password in config file ...paassword aut---yes
-![j1](https://user-images.githubusercontent.com/72296999/115218835-970c6a80-a124-11eb-8097-7e4be9fe9db6.PNG)
+
+
 
